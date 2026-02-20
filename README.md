@@ -8,3 +8,7 @@ Visible surface determination
 If no intersection, use background color.
 
 ![checkpoint2](CSCI711_checkpoint2.jpg)
+
+
+The third checkpoint, Basic Shading, Implemented Phong Illumination Model for Shading 
+![checkpoint3](CSCI711_chcekpoint3.jpg)
