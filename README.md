@@ -11,4 +11,4 @@ If no intersection, use background color.
 
 
 The third checkpoint, Basic Shading, Implemented Phong Illumination Model for Shading 
-![checkpoint3](CSCI711_chcekpoint3.jpg)
+![checkpoint3](CSCI711_checkpoint3.jpg)
