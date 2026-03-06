@@ -12,3 +12,6 @@ If no intersection, use background color.
 
 The third checkpoint, Basic Shading, Implemented Phong Illumination Model for Shading 
 ![checkpoint3](CSCI711_checkpoint3.jpg)
+
+The fourth checkpoint, procedural texture shading to create a checkerboard floor
+![checkpoint4](CSCI711_checkpoint4.jpg)
