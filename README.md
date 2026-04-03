@@ -16,5 +16,6 @@ The third checkpoint, Basic Shading, Implemented Phong Illumination Model for Sh
 The fourth checkpoint, procedural texture shading to create a checkerboard floor
 ![checkpoint4](CSCI711_checkpoint4.jpg)
 
+
 The fifth checkpoint, Recursive raytracing, Implemented reflections
 ![checkpoint5](CSCI711_checkpoint5.jpg)
