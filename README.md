@@ -10,12 +10,11 @@ If no intersection, use background color.
 ![checkpoint2](CSCI711_checkpoint2.jpg)
 
 
-The third checkpoint, Basic Shading, Implemented Phong Illumination Model for Shading 
+The third checkpoint, Basic Shading, Implemented Phong Illumination Model for Shading<br/>
 ![checkpoint3](CSCI711_checkpoint3.jpg)
 
-The fourth checkpoint, procedural texture shading to create a checkerboard floor
+The fourth checkpoint, procedural texture shading to create a checkerboard floor<br/>
 ![checkpoint4](CSCI711_checkpoint4.jpg)
 
-
-The fifth checkpoint, Recursive raytracing, Implemented reflections
+The fifth checkpoint, Recursive raytracing, Implemented reflections<br/>
 ![checkpoint5](CSCI711_checkpoint5.jpg)
