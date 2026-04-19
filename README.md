@@ -18,3 +18,19 @@ The fourth checkpoint, procedural texture shading to create a checkerboard floor
 
 The fifth checkpoint, Recursive raytracing, Implemented reflections<br/>
 ![checkpoint5](CSCI711_checkpoint5.jpg)
+
+The sixth checkpoint, Implementing refractions<br/>
+1.0 index of refraction<br/>
+![checkpoint6_1.0refraction](CSCI711_checkpoint6_1.0refraction.jpg)
+
+1.33 index of refraction<br/>
+![checkpoint6_1.33refraction](CSCI711_checkpoint6_1.33refraction.jpg)
+
+1.33 index of refraction and 0.1Kt for reflection<br/>
+![checkpoint6_1.33refraction](CSCI711_checkpoint6_1.33refraction0.1Kt.jpg)
+
+1.5 index of refraction<br/>
+![checkpoint6_1.5refraction](CSCI711_checkpoint6_1.5refraction.jpg)
+
+1.5 index of refraction and 0.1Kt for reflection<br/>
+![checkpoint6_1.5refraction](CSCI711_checkpoint6_1.5refraction0.1Kt.jpg)
