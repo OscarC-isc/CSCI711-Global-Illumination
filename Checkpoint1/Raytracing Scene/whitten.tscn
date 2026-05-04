@@ -1,0 +1,32 @@
+[gd_scene load_steps=4 format=3 uid="uid://dpwnft84v7ma3"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_70s5t"]
+radius = 1.0
+height = 2.0
+
+[sub_resource type="SphereMesh" id="SphereMesh_eos7h"]
+radius = 1.0
+height = 2.0
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_c2mj3"]
+size = Vector2(8, 16)
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6.0938244, 2.5, 7.4257727)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6.193824, 2.4, 5.225773)
+mesh = SubResource("SphereMesh_70s5t")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.193824, 1.6355124, 3.9257727)
+mesh = SubResource("SphereMesh_eos7h")
+
+[node name="MeshInstance3D3" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.7913427, 0.2753985, 0.86466503)
+mesh = SubResource("PlaneMesh_c2mj3")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 7.8103094, 12.5, 2.2556067)
