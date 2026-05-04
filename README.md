@@ -39,19 +39,19 @@ The 7th checkpoint, Implementing Tone Reproduction with Reinhard and Ward Models
 To change the Illuminace Range a lightscale constant (0.5 for Low, 2.5 for Med, 5.0 for High) was multipled to each light color.
 
 Ward Model Lo-Range lighting (0.5 Scaling)<br/>
-![checkpoint7 WardLo](Checkpoint6/CSCI711_checkpoint7_WardLo.jpg)
+![checkpoint7 WardLo](Checkpoint7/CSCI711_checkpoint7_WardLo.jpg)
 
 Ward Model Mid-Range lighting (2.5 Scaling)<br/>
-![checkpoint7 WardMed](Checkpoint6/CSCI711_checkpoint7_WardMed.jpg)
+![checkpoint7 WardMed](Checkpoint7/CSCI711_checkpoint7_WardMed.jpg)
 
 Ward Model Hi-Range lighting (5.0 Scaling)<br/>
-![checkpoint7 WardHI](Checkpoint6/CSCI711_checkpoint7_WardHi.jpg)
+![checkpoint7 WardHI](Checkpoint7/CSCI711_checkpoint7_WardHi.jpg)
 
 Reinhard Model Lo-Range lighting (0.5 Scaling)<br/>
-![checkpoint7 ReinhardLo](Checkpoint6/CSCI711_checkpoint7_ReinhardLo.jpg)
+![checkpoint7 ReinhardLo](Checkpoint7/CSCI711_checkpoint7_ReinhardLo.jpg)
 
 Reinhard Model Mid-Range lighting (2.5 Scaling)<br/>
-![checkpoint7 ReinhardMed](Checkpoint6/CSCI711_checkpoint7_ReinhardMed.jpg)
+![checkpoint7 ReinhardMed](Checkpoint7/CSCI711_checkpoint7_ReinhardMed.jpg)
 
 Reinhard Model Hi-Range lighting (5.0 Scaling)<br/>
-![checkpoint7 ReinhardHi](Checkpoint6/CSCI711_checkpoint7_ReinhardHi.jpg)
+![checkpoint7 ReinhardHi](Checkpoint7/CSCI711_checkpoint7_ReinhardHi.jpg)
