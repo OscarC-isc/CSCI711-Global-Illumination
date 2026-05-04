@@ -7,51 +7,51 @@ Non-recursive ray tracing
 Visible surface determination
 If no intersection, use background color.
 
-![checkpoint2](CSCI711_checkpoint2.jpg)
+![checkpoint2](Checkpoint2/CSCI711_checkpoint2.jpg)
 
 
 The 3rd checkpoint, Basic Shading, Implemented Phong Illumination Model for Shading<br/>
-![checkpoint3](CSCI711_checkpoint3.jpg)
+![checkpoint3](Checkpoint3/CSCI711_checkpoint3.jpg)
 
 The 4th checkpoint, procedural texture shading to create a checkerboard floor<br/>
-![checkpoint4](CSCI711_checkpoint4.jpg)
+![checkpoint4](Checkpoint4/CSCI711_checkpoint4.jpg)
 
 The 5th checkpoint, Recursive raytracing, Implemented reflections<br/>
-![checkpoint5](CSCI711_checkpoint5.jpg)
+![checkpoint5](Checkpoint5/CSCI711_checkpoint5.jpg)
 
 The 6th checkpoint, Implementing refractions<br/>
 1.0 index of refraction<br/>
-![checkpoint6_1.0refraction](CSCI711_checkpoint6_1.0refraction.jpg)
+![checkpoint6_1.0refraction](Checkpoint6/CSCI711_checkpoint6_1.0refraction.jpg)
 
 1.33 index of refraction<br/>
-![checkpoint6_1.33refraction](CSCI711_checkpoint6_1.33refraction.jpg)
+![checkpoint6_1.33refraction](Checkpoint6/CSCI711_checkpoint6_1.33refraction.jpg)
 
 1.33 index of refraction and 0.1Kt for reflection<br/>
-![checkpoint6_1.33refraction](CSCI711_checkpoint6_1.33refraction0.1Kt.jpg)
+![checkpoint6_1.33refraction](Checkpoint6/CSCI711_checkpoint6_1.33refraction0.1Kt.jpg)
 
 1.5 index of refraction<br/>
-![checkpoint6_1.5refraction](CSCI711_checkpoint6_1.5refraction.jpg)
+![checkpoint6_1.5refraction](Checkpoint6/CSCI711_checkpoint6_1.5refraction.jpg)
 
 1.5 index of refraction and 0.1Kt for reflection<br/>
-![checkpoint6_1.5refraction](CSCI711_checkpoint6_1.5refraction0.1Kt.jpg)
+![checkpoint6_1.5refraction](Checkpoint6/CSCI711_checkpoint6_1.5refraction0.1Kt.jpg)
 
 The 7th checkpoint, Implementing Tone Reproduction with Reinhard and Ward Models.<br/>
 To change the Illuminace Range a lightscale constant (0.5 for Low, 2.5 for Med, 5.0 for High) was multipled to each light color.
 
 Ward Model Lo-Range lighting (0.5 Scaling)<br/>
-![checkpoint7 WardLo](CSCI711_checkpoint7_WardLo.jpg)
+![checkpoint7 WardLo](Checkpoint6/CSCI711_checkpoint7_WardLo.jpg)
 
 Ward Model Mid-Range lighting (2.5 Scaling)<br/>
-![checkpoint7 WardMed](CSCI711_checkpoint7_WardMed.jpg)
+![checkpoint7 WardMed](Checkpoint6/CSCI711_checkpoint7_WardMed.jpg)
 
 Ward Model Hi-Range lighting (5.0 Scaling)<br/>
-![checkpoint7 WardHI](CSCI711_checkpoint7_WardHi.jpg)
+![checkpoint7 WardHI](Checkpoint6/CSCI711_checkpoint7_WardHi.jpg)
 
 Reinhard Model Lo-Range lighting (0.5 Scaling)<br/>
-![checkpoint7 ReinhardLo](CSCI711_checkpoint7_ReinhardLo.jpg)
+![checkpoint7 ReinhardLo](Checkpoint6/CSCI711_checkpoint7_ReinhardLo.jpg)
 
 Reinhard Model Mid-Range lighting (2.5 Scaling)<br/>
-![checkpoint7 ReinhardMed](CSCI711_checkpoint7_ReinhardMed.jpg)
+![checkpoint7 ReinhardMed](Checkpoint6/CSCI711_checkpoint7_ReinhardMed.jpg)
 
 Reinhard Model Hi-Range lighting (5.0 Scaling)<br/>
-![checkpoint7 ReinhardHi](CSCI711_checkpoint7_ReinhardHi.jpg)
+![checkpoint7 ReinhardHi](Checkpoint6/CSCI711_checkpoint7_ReinhardHi.jpg)
