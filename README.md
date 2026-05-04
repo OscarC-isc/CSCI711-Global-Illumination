@@ -35,23 +35,23 @@ The 6th checkpoint, Implementing refractions<br/>
 1.5 index of refraction and 0.1Kt for reflection<br/>
 ![checkpoint6_1.5refraction](CSCI711_checkpoint6_1.5refraction0.1Kt.jpg)
 
-The 7th checkpoint, Implementing Tone Reproduction with Reinhard and Ward Models.
+The 7th checkpoint, Implementing Tone Reproduction with Reinhard and Ward Models.<br/>
 To change the Illuminace Range a lightscale constant (0.5 for Low, 2.5 for Med, 5.0 for High) was multipled to each light color.
 
-Ward Model Lo-Range lighting (0.5 Scaling)
+Ward Model Lo-Range lighting (0.5 Scaling)<br/>
 ![checkpoint7 WardLo](CSCI711_checkpoint7_WardLo.jpg)
 
-Ward Model Mid-Range lighting (2.5 Scaling)
+Ward Model Mid-Range lighting (2.5 Scaling)<br/>
 ![checkpoint7 WardMed](CSCI711_checkpoint7_WardMed.jpg)
 
-Ward Model Hi-Range lighting (5.0 Scaling)
+Ward Model Hi-Range lighting (5.0 Scaling)<br/>
 ![checkpoint7 WardHI](CSCI711_checkpoint7_WardHi.jpg)
 
-Reinhard Model Lo-Range lighting (0.5 Scaling)
+Reinhard Model Lo-Range lighting (0.5 Scaling)<br/>
 ![checkpoint7 ReinhardLo](CSCI711_checkpoint7_ReinhardLo.jpg)
 
-Reinhard Model Mid-Range lighting (2.5 Scaling)
+Reinhard Model Mid-Range lighting (2.5 Scaling)<br/>
 ![checkpoint7 ReinhardMed](CSCI711_checkpoint7_ReinhardMed.jpg)
 
-Reinhard Model Hi-Range lighting (5.0 Scaling)
+Reinhard Model Hi-Range lighting (5.0 Scaling)<br/>
 ![checkpoint7 ReinhardHi](CSCI711_checkpoint7_ReinhardHi.jpg)
