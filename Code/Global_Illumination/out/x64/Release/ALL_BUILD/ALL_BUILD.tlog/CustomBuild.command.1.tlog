@@ -1,0 +1,10 @@
+^C:\USERS\STARL\SOURCE\REPOS\GLOBAL_ILLUMINATION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/StarL/source/repos/Global_Illumination -BC:/Users/StarL/source/repos/Global_Illumination/out --check-stamp-file C:/Users/StarL/source/repos/Global_Illumination/out/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

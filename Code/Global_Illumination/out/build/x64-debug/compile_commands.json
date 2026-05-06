@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\rayTracer.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\rayTracer.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/rayTracer.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/rayTracer.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\math.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\math.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/math.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/math.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\readScene.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\readScene.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/readScene.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/readScene.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\objects.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\objects.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/objects.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/objects.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\toneReproduction.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\toneReproduction.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/toneReproduction.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/toneReproduction.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\photonMap.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\photonMap.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/photonMap.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/photonMap.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\main.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\main.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/main.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\kdTree.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\kdTree.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/kdTree.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/kdTree.cpp.obj"
+},
+{
+  "directory": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI /FoCMakeFiles\\Global_Illumination.dir\\globals.cpp.obj /FdCMakeFiles\\Global_Illumination.dir\\ /FS -c C:\\Users\\StarL\\source\\repos\\Global_Illumination\\globals.cpp",
+  "file": "C:/Users/StarL/source/repos/Global_Illumination/globals.cpp",
+  "output": "C:/Users/StarL/source/repos/Global_Illumination/out/build/x64-debug/CMakeFiles/Global_Illumination.dir/globals.cpp.obj"
+}
+]

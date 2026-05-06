@@ -1,0 +1,11 @@
+# ninja log v6
+143	1278	7997150332837221	CMakeFiles/Global_Illumination.dir/objects.cpp.obj	88150c72657bd18b
+24	2356	7997150956123324	CMakeFiles/Global_Illumination.dir/main.cpp.obj	e547ceb72e806bdc
+38	3618	7996742445699133	CMakeFiles/Global_Illumination.dir/math.cpp.obj	61e264c2808fc8ab
+59	3615	7996742445911141	CMakeFiles/Global_Illumination.dir/toneReproduction.cpp.obj	f49b8ac0f364fb1f
+256	3915	7997149925516037	CMakeFiles/Global_Illumination.dir/readScene.cpp.obj	f6b675a4f1cc59ff
+17	2345	7997150955983824	CMakeFiles/Global_Illumination.dir/photonMap.cpp.obj	a79ad4d2ff94f6d3
+31	2351	7997150956164225	CMakeFiles/Global_Illumination.dir/kdTree.cpp.obj	bebc9bfb7be5546c
+9	2360	7997150955824069	CMakeFiles/Global_Illumination.dir/rayTracer.cpp.obj	984b7e60b0d46596
+84	3607	7996742446157843	CMakeFiles/Global_Illumination.dir/globals.cpp.obj	6fd11110056cac8
+2360	3229	7997150979450201	Global_Illumination.exe	b3a7e1e9d96c752f

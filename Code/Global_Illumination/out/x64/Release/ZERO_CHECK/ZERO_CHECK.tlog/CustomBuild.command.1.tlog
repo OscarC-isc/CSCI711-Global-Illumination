@@ -1,0 +1,10 @@
+^C:\USERS\STARL\SOURCE\REPOS\GLOBAL_ILLUMINATION\OUT\CMAKEFILES\0D21B0CDB2E35CFC7EA8DFC862F9F81A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/StarL/source/repos/Global_Illumination -BC:/Users/StarL/source/repos/Global_Illumination/out --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/StarL/source/repos/Global_Illumination/out/Global_Illumination.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
